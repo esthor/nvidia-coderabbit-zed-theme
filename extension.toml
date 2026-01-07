@@ -1,0 +1,7 @@
+id = "nvidia-coderabbit"
+name = "NVIDIA x CodeRabbit"
+version = "0.1.0"
+schema_version = 1
+authors = ["Erik Thorelli <erik@coderabbit.ai>"]
+description = "A celebratory theme honoring the NVIDIA and CodeRabbit collaboration and partnerships"
+repository = "https://github.com/esthor/nvidia-coderabbit-zed-theme"

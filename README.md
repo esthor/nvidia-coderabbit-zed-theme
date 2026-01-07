@@ -4,6 +4,8 @@ A celebratory theme for [Zed](https://zed.dev) honoring the collaboration & part
 
 [![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://nvidia.com) [![CodeRabbit](https://img.shields.io/badge/CodeRabbit-FF570A?style=for-the-badge)](https://coderabbit.ai)
 
+![NVIDIA x CodeRabbit Theme Preview](assets/preview.png)
+
 ## About
 
 This theme celebrates the collaboration between NVIDIA and CodeRabbit, marking the widespread adoption of CodeRabbit across thousands of internal code repositories at NVIDIA + the integration of **Nemotron 3 Nano**—NVIDIA's latest foundation model—as one of the frontier models in CodeRabbit's ensemble of AI models powering its agentic workflows for intelligent code review.
